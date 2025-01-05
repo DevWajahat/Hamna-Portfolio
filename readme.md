@@ -47,7 +47,7 @@ The Hamna Portfolio website serves as an online portfolio to display Hamna's wor
 - Use the contact form to send a message directly to Hamna via Formspree.
 
 ## Screenshots
-![Homepage Screenshot](https://i.ibb.co/p4GVg1C/homepage.png)
+<img src="https://i.ibb.co/p4GVg1C/homepage.png" style="width:1280px; height:861px">
 
 ![Projects Section Screenshot](screenshots/projects.png)
 
