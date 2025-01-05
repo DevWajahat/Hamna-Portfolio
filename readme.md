@@ -56,9 +56,6 @@ The Hamna Portfolio website serves as an online portfolio to display Hamna's wor
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the development of this portfolio, please fork the repository and create a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 Thank you for visiting Hamna's portfolio! Feel free to explore and reach out through the contact form for any inquiries or collaboration opportunities.
